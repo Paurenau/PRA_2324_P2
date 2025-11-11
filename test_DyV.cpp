@@ -1,4 +1,4 @@
-:!g++ -std=c++17 test_DyV.cpp -o test_DyV#include <iostream>
+#include <iostream>
 #include <vector>
 #include "DyV.h"
 using namespace std;
